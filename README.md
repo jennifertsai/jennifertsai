@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi, I'm Jennifer (she/her)! 👋
+I'm a neurotech geek, community activist, and Biomedical Engineering student at the University of Waterloo. With a background in neuroscience research, I'm currently working on breaking into the world of tech to solve health and social justice issues. Learn more about me at www.jennifertsai.ca !
 
 <!--
 **jennifertsai/jennifertsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
