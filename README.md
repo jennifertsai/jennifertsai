@@ -1,5 +1,5 @@
 # Hi, I'm Jennifer (she/her)! 👋
-I'm a biomedical engineering undergraduate at the University of Waterloo in Ontario, Canada. I'm currently exploring building powerful computational biology tools and models to draw novel insights into the field of neuroscience. I was previously working at @strandtx, @tdlab, @uwblueprint, @hackthenorth. Learn more about me at https://jennifertsai.ca/ !
+I'm a biomedical engineering undergraduate at the University of Waterloo in Ontario, Canada. I'm currently exploring building powerful computational biology tools and models to draw novel insights into the field of neuroscience. I was previously working at @strandtx, @cembrowskilab, @tdlabio, @uwblueprint, @hackthenorth. Learn more about me at https://jennifertsai.ca/ !
 
 <!--
 **jennifertsai/jennifertsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
